@@ -95,6 +95,3 @@ For any questions or issues, please feel free to reach out to Niloy Deb Barma th
 ---
 
 Happy coding!
-```
-
-This `README.md` provides a comprehensive guide for users to get started with your project, highlighting your involvement and ensuring clarity on how to use Google Colab with a T4 GPU.
