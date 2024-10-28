@@ -2,8 +2,8 @@
 
 This project is part of the Udacity Nanodegree program and focuses on developing an image classifier using deep learning techniques. The goal is to create a model capable of classifying images into different categories, specifically using the [102 Flower Categories dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) to train and evaluate the model.
 
-## Verified Certificate Of Nanodegree Program Completion
-# AI Programming with Python
+# Verified Certificate Of Nanodegree Program Completion
+##AI Programming with Python
 
 [AI Programming with Python](https://www.udacity.com/certificate/e/aaa90186-2dce-11ef-889a-97c882f2afe3)
 
