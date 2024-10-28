@@ -4,7 +4,24 @@ This project is part of the Udacity Nanodegree program and focuses on developing
 
 ## Verified Certificate Of Nanodegree Program Completion
 # AI Programming with Python
+
 [AI Programming with Python](https://www.udacity.com/certificate/e/aaa90186-2dce-11ef-889a-97c882f2afe3)
+
+### Certificate Overview
+This certificate confirms the completion of the AI Programming with Python Nanodegree program. The program covers:
+
+- **Fundamentals of Python programming**
+- **Working with data using NumPy and Pandas**
+- **Introduction to machine learning with scikit-learn**
+- **Building a neural network using PyTorch**
+
+### Skills Acquired
+- Python programming
+- Data manipulation and analysis
+- Machine learning fundamentals
+- Neural network development
+
+For more details, please visit the [official program page](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 ## Repository Structure
 
